@@ -53,7 +53,7 @@ svg {
   background-image: url("../img/Huerto.png");
 }
 .item-box:nth-child(5) .puzzle:before {
-  background-image: url("../img/Maquillaje1.jpeg");
+  background-image: url("../img/maquillaje1.jpeg");
 }
 .item-box:nth-child(6) .puzzle:before {
   background-image: url("../img/tejer.png");
