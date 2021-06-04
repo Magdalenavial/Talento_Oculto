@@ -6,10 +6,10 @@
 
 h1 {
   position: absolute;
-  margin-top: 340px;
-  margin-left: 500px;
-  font-size: 30pt;
-  font:"Comic Sans MS"
+  margin-top: 250px;
+  margin-left: 450px;
+  font-size: 45pt;
+  font-family:"Comic Sans MS";
 }
 body {
   overflow: hidden;
@@ -53,7 +53,7 @@ svg {
   background-image: url("../img/Huerto.png");
 }
 .item-box:nth-child(5) .puzzle:before {
-  background-image: url("../img/Maquillaje.png");
+  background-image: url("../img/Maquillaje1.jpeg");
 }
 .item-box:nth-child(6) .puzzle:before {
   background-image: url("../img/tejer.png");
